@@ -1,0 +1,8 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+nav button {
+    border-radius: 0px 15px 15px 0px;
+    border: none;
+}
